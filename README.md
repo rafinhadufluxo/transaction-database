@@ -46,8 +46,10 @@ automática. Após executar operações de inserção, é acionado o comando de 
 
 ## Detalhes que foram atendidas :
 <br>
-1- Inserindo as tuplas em uma tabela usando o Postgres, os dados em um  arquivo csv. <br>
-2- A linguagem utilizada foi php com preferência na versão 7 por diante.
+
+1. Inserindo as tuplas em uma tabela usando o Postgres, os dados em um  arquivo csv.  <br>
+2. A linguagem utilizada foi php com preferência na versão 7.4 por diante.  <br>
+3. Não esqueça de instalar o  `sudo apt install php7.4-psql`, pois irá precisar para conexão do banco de dados do `PostgreSQL` com php assim fazendo alterações e trabalhando no seu ambiente. 
 
 
 <br>
@@ -78,4 +80,5 @@ Para contribuir e deixar a comunidade open source um lugar incrivel para aprende
 
 ## Autores
 
+- **[Bianca Gabriela Fritsch](https://github.com/bbiancaa)** - _Acadêmica do Curso de Ciência da Computação -UFFS_. 
 - **[Rafinha](https://github.com/rafalup)** - _Acadêmica do Curso de Ciência da Computação -UFFS_. 
