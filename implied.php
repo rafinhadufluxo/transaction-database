@@ -47,5 +47,5 @@
     // Calculate script execution time 
     $executionTime = ($endTime - $startTime); 
 
-    echo "</br></br> Explicit Insert: Execution time of script = " . strval($executionTime) . " sec </br></br>";
+    echo "</br></br> Implicit Insert: Execution time of script = " . strval($executionTime) . " sec </br></br>";
        
